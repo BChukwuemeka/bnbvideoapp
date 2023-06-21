@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bnbvideoapp/static/css/main.7064deb2.css",
+    "main.js": "/bnbvideoapp/static/js/main.9e350965.js",
+    "static/media/BRICH LOGO logo medium.png": "/bnbvideoapp/static/media/BRICH LOGO logo medium.e1bb1c818c7bd3a584e4.png",
+    "index.html": "/bnbvideoapp/index.html",
+    "main.7064deb2.css.map": "/bnbvideoapp/static/css/main.7064deb2.css.map",
+    "main.9e350965.js.map": "/bnbvideoapp/static/js/main.9e350965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.9e350965.js"
+  ]
+}
