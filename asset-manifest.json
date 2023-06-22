@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7064deb2.css",
-    "main.js": "/static/js/main.afb8976c.js",
+    "main.js": "/static/js/main.fb82789e.js",
     "static/media/BRICH LOGO logo medium.png": "/static/media/BRICH LOGO logo medium.e1bb1c818c7bd3a584e4.png",
     "index.html": "/index.html",
     "main.7064deb2.css.map": "/static/css/main.7064deb2.css.map",
-    "main.afb8976c.js.map": "/static/js/main.afb8976c.js.map"
+    "main.fb82789e.js.map": "/static/js/main.fb82789e.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.afb8976c.js"
+    "static/js/main.fb82789e.js"
   ]
 }
